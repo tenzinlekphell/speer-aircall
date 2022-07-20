@@ -1,10 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import './ActivityFeed.css';
 import {
-  BsTelephoneXFill,
   BsTelephoneInboundFill,
   BsTelephoneOutboundFill,
-  BsTelephoneInbound,
 } from 'react-icons/bs';
 
 const ActivityFeed = () => {
